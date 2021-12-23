@@ -5,6 +5,7 @@ slug: /harry-potter-a-l-ecole-des-sorciers
 date: 2021-12-23 22:46
 description: Un jeune garçon apprend à devenir un homme en passant sept années
   scolaires dans une école de sorcier.
+featuredImage: /assets/harry_potter__chibi_fanart__by_nukababe_ddbvrr3-fullview.jpg
 ---
 ### Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
 
