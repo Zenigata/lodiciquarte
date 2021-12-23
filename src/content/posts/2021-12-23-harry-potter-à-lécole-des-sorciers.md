@@ -22,4 +22,4 @@ Après de nombreuses épreuves, Harry est confronté à Voldemort qui n’est pl
 
 - - -
 
-*Dessin par nukababe sur [DeviantArt](https://www.deviantart.com/nukababe/art/Harry-Potter-Chibi-Fanart-806018367).*
+*Dessin par MarinaMichkina sur [DeviantArt](https://www.deviantart.com/marinamichkina/art/Harry-Potter-and-the-philosopher-s-stone-599539115).*
