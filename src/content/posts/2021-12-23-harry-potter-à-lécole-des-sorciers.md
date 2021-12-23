@@ -3,12 +3,12 @@ template: blog-post
 title: Harry Potter à l'école des sorciers
 slug: /harry-potter-a-l-ecole-des-sorciers
 date: 2021-12-23 22:46
-description: Un orphelin apprend qu’il est sorcier et découvre un monde
+description: Un orphelin apprend qu’il est un sorcier et découvre un monde
   parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique
   quand il était bébé.
 featuredImage: /assets/hp1.jpg
 ---
-### Un orphelin apprend qu’il est sorcier et découvre un monde parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique quand il était bébé.
+### Un orphelin apprend qu’il est un sorcier et découvre un monde parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique quand il était bébé.
 
 Un orphelin maltraité par sa famille d’accueil s’est toujours trouvé différent des autres sans toutefois comprendre les bizarreries qui arrivent autour de lui.
 
@@ -22,4 +22,4 @@ Après de nombreuses épreuves, Harry est confronté à Voldemort qui n’est pl
 
 - - -
 
-Dessin par nukababe sur [DeviantArt](https://www.deviantart.com/nukababe/art/Harry-Potter-Chibi-Fanart-806018367).
+*Dessin par nukababe sur [DeviantArt](https://www.deviantart.com/nukababe/art/Harry-Potter-Chibi-Fanart-806018367).*
