@@ -12,11 +12,11 @@ featuredImage: /assets/hp1.jpg
 
 Un orphelin maltraité par sa famille d’accueil s’est toujours trouvé différent des autres sans toutefois comprendre les bizarreries qui arrivent autour de lui.
 
-Harry apprend qu’il est sorcier.
+- Harry apprend qu’il est sorcier.
 
-À Halloween, un troll est lancé et attaque Hermione. Ils deviennent amis avec Ron.
+- À Halloween, un troll est lancé et attaque Hermione. Ils deviennent amis avec Ron.
 
-Le trio pense que Voldemort veut revenir à la vie avec l’aide de Rogue en accaparant la pierre philosophale gardée à Poudlard.
+- Le trio pense que Voldemort veut revenir à la vie avec l’aide de Rogue en accaparant la pierre philosophale gardée à Poudlard.
 
 Après de nombreuses épreuves, Harry est confronté à Voldemort qui n’est plus que l’ombre de lui-même. Il termine sa première année, ravi, mais avec le pressentiment que Voldemort reviendra.
 
