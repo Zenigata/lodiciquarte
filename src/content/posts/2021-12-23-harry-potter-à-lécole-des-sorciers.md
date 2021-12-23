@@ -3,29 +3,22 @@ template: blog-post
 title: Harry Potter à l'école des sorciers
 slug: /harry-potter-a-l-ecole-des-sorciers
 date: 2021-12-23 22:46
-description: Un jeune garçon apprend à devenir un homme en passant sept années
-  scolaires dans une école de sorcier.
+description: Un orphelin apprend qu’il est sorcier et découvre un monde
+  parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique
+  quand il était bébé.
 featuredImage: /assets/harry_potter__chibi_fanart__by_nukababe_ddbvrr3-fullview.jpg
 ---
-### Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
+### Un orphelin apprend qu’il est sorcier et découvre un monde parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique quand il était bébé.
 
-Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
+Un orphelin maltraité par sa famille d’accueil s’est toujours trouvé différent des autres sans toutefois comprendre les bizarreries qui arrivent autour de lui.
 
-```
-Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
+Harry apprend qu’il est sorcier.
 
-Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
+À Halloween, un troll est lancé et attaque Hermione. Ils deviennent amis avec Ron.
 
-Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
-```
+Le trio pense que Voldemort veut revenir à la vie avec l’aide de Rogue en accaparant la pierre philosophale gardée à Poudlard.
 
-`sd`
-
-> Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
->
-> Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
->
-> Un jeune garçon apprend à devenir un homme en passant sept années scolaires dans une école de sorcier.
+Après de nombreuses épreuves, Harry est confronté à Voldemort qui n’est plus que l’ombre de lui-même. Il termine sa première année, ravi, mais avec le pressentiment que Voldemort reviendra.
 
 - - -
 
