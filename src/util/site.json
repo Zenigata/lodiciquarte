@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": " Lodiciquarte",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Décrire l'intention littéraire d'une œuvre. La résumer en une phrase ou paragraphe court.",
+    "siteUrl": "https://lodiciquarte.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@JohanBonneau"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
