@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Lodiciquarte
+tagline: Vos œuvres préférées résumées en une phrase !
+featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: En savoir plus
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Parcourez ce site à vos risques et périls !
+🙈 Chaque entrée divulgâche l'œuvre choisie.
