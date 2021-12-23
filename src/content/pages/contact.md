@@ -1,9 +1,8 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contactez-nous !
 ---
+Nous sommes réactifs ! Envoyez-nous un message et nous vous répondrons dans les plus brefs délais.
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Ou venez discuter avec nous sur Discord 💬
