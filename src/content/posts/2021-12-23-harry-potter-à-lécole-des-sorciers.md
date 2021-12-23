@@ -6,7 +6,7 @@ date: 2021-12-23 22:46
 description: Un orphelin apprend qu’il est sorcier et découvre un monde
   parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique
   quand il était bébé.
-featuredImage: /assets/harry_potter__chibi_fanart__by_nukababe_ddbvrr3-fullview.jpg
+featuredImage: /assets/hp1.jpg
 ---
 ### Un orphelin apprend qu’il est sorcier et découvre un monde parallèle dans lequel il est célèbre pour avoir tué l’être le plus maléfique quand il était bébé.
 
