@@ -12,7 +12,7 @@ Thomas rejoint une bande de garçons enfermés dans un labyrinthe géant qui lut
 
 - Brisant le cycle des arrivées, Thérésa devient la seule fille de la communauté et la dernière personne à la rejoindre.
 
-- Thomas reste prisonnier du labyrinthe pour une nuit complète et se fait attaquer par les griffeurs, des monstres de cauchemars.
+- Thomas reste prisonnier du labyrinthe pour une nuit complète et se fait attaquer par les griffeurs, des monstres de cauchemar.
 
 - Thomas et Thérésa peuvent communiquer par télépathie et découvrent qu'ils ont un passé commun en lien avec le labyrinthe.
 
