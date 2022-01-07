@@ -12,7 +12,7 @@ featuredImage: /assets/harry_potter_and_the_philosopher_s_stone_by_marinamichkin
 
 Un orphelin maltraité par sa famille d’accueil s’est toujours trouvé différent des autres sans toutefois comprendre les bizarreries qui arrivent autour de lui.
 
-- Harry apprend qu’il est sorcier et est convié à l'école de magie Poudlard.
+- Harry apprend qu’il est sorcier et qu'il est convié à l'école de magie de Poudlard.
 
 - À Halloween, un dangereux troll est invoqué et attaque Hermione. Les liens se resserrent entre Harry, Ron et Hermione.
 
