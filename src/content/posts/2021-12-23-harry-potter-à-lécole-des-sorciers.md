@@ -14,7 +14,7 @@ Un orphelin maltraité par sa famille d’accueil s’est toujours trouvé diff�
 
 - Harry apprend qu’il est sorcier et qu'il est convié à l'école de magie de Poudlard.
 
-- À Halloween, un dangereux troll est invoqué et attaque Hermione. Les liens se resserrent entre Harry, Ron et Hermione.
+- À Halloween, un dangereux troll est introduit dans le château et attaque Hermione. Les liens se resserrent entre Harry, Ron et Hermione.
 
 - Le trio pense que Voldemort veut revenir à la vie avec l’aide du professeur Rogue et de la pierre philosophale, un trésor gardé au sein de l'école.
 
